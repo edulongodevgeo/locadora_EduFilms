@@ -13,3 +13,8 @@ body {
     overflow: hidden;
     margin: 0;
 }
+
+.main,
+img {
+    background-size: 50%;
+}
